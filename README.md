@@ -8,7 +8,7 @@ Camera App write with API 2
 
 2. Can get yuv format picture(if support, can be seen in Settings), if is yuv file, no thumbnail will generated, file save path: "/sdcard/DCIM/Camera2/"
 
-##dsaddddddddddddddddddddddddddddd32132131232131
+##dsaddddddddddddddddddddddddddddd32132131232131sdsadasdas
 ## ScreenShot
 
 <img width="200" src="./img/intro_1.png"></img>
